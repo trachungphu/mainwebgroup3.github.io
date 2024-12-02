@@ -12,7 +12,7 @@
             color: #333;
         }
         header {
-            background: url('images/photo-1689754955118-16897549572311618952112.jpg') no-repeat center center;
+            background: url('photo-1689754955118-16897549572311618952112.jpg') no-repeat center center;
             background-size: cover;
             height: 60vh;
             color: white;
