@@ -72,13 +72,13 @@
     <div class="content">
         <h2>Giới thiệu về Cầu Vàng</h2>
         <p>Cầu Vàng (Golden Bridge) nằm tại khu du lịch Bà Nà Hills, Đà Nẵng, là một công trình kiến trúc nổi bật thu hút du khách trong nước và quốc tế. Với thiết kế độc đáo, cây cầu dài 150m này được nâng đỡ bởi hai bàn tay khổng lồ, tạo nên cảm giác như đang bước đi trên mây.</p>
-        <img src="images/cau-vang-da-nang-02.png" alt="Cầu Vàng Đà Nẵng">
+        <img src="cau-vang-da-nang-02.png" alt="Cầu Vàng Đà Nẵng">
     </div>
 
     <div class="content">
         <h2>Kiến trúc độc đáo</h2>
         <p>Được hoàn thành vào năm 2018, Cầu Vàng không chỉ là một cây cầu đi bộ mà còn là tác phẩm nghệ thuật giữa thiên nhiên. Hai bàn tay khổng lồ được làm bằng thép và sợi thủy tinh, mang đến sự hài hòa giữa kiến trúc hiện đại và thiên nhiên hùng vĩ.</p>
-        <img src="images/images1730994_b2.jpg" alt="Kiến trúc Cầu Vàng">
+        <img src="images1730994_b2.jpg" alt="Kiến trúc Cầu Vàng">
     </div>
 
     <div class="content">
