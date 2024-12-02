@@ -78,7 +78,7 @@
     <div class="content">
         <h2>Kiến trúc độc đáo</h2>
         <p>Được hoàn thành vào năm 2018, Cầu Vàng không chỉ là một cây cầu đi bộ mà còn là tác phẩm nghệ thuật giữa thiên nhiên. Hai bàn tay khổng lồ được làm bằng thép và sợi thủy tinh, mang đến sự hài hòa giữa kiến trúc hiện đại và thiên nhiên hùng vĩ.</p>
-        <img src="images1730994_b2.jpg" alt="Kiến trúc Cầu Vàng">
+        <img src="https://dangcongsan.vn/tu-tuong-van-hoa/cau-vang-da-nang-duoc-vinh-danh-ky-quan-moi-cua-the-gioi-576955.html#images" alt="Kiến trúc Cầu Vàng">
     </div>
 
     <div class="content">
