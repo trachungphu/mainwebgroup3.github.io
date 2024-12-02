@@ -1,1 +1,97 @@
-# mainwebgroup3.github.io
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cầu Vàng - Đà Nẵng</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background: url('images/photo-1689754955118-16897549572311618952112.jpg') no-repeat center center;
+            background-size: cover;
+            height: 60vh;
+            color: white;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+        }
+        header h1 {
+            font-size: 3em;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+        }
+        main {
+            padding: 20px;
+            max-width: 900px;
+            margin: auto;
+        }
+        .content {
+            margin: 20px 0;
+        }
+        .content h2 {
+            color: #007bff;
+            margin-bottom: 10px;
+        }
+        .content img {
+            width: 100%;
+            height: auto;
+            border-radius: 8px;
+            margin: 10px 0;
+        }
+        footer {
+            background-color: #007bff;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            margin-top: 20px;
+        }
+        footer a {
+            color: #ffdd57;
+            text-decoration: none;
+        }
+        footer a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Cầu Vàng - Biểu tượng mới của Đà Nẵng</h1>
+    <div class = "backgroundvideo">
+        
+    </div>
+</header>
+
+<main>
+    <div class="content">
+        <h2>Giới thiệu về Cầu Vàng</h2>
+        <p>Cầu Vàng (Golden Bridge) nằm tại khu du lịch Bà Nà Hills, Đà Nẵng, là một công trình kiến trúc nổi bật thu hút du khách trong nước và quốc tế. Với thiết kế độc đáo, cây cầu dài 150m này được nâng đỡ bởi hai bàn tay khổng lồ, tạo nên cảm giác như đang bước đi trên mây.</p>
+        <img src="images/cau-vang-da-nang-02.png" alt="Cầu Vàng Đà Nẵng">
+    </div>
+
+    <div class="content">
+        <h2>Kiến trúc độc đáo</h2>
+        <p>Được hoàn thành vào năm 2018, Cầu Vàng không chỉ là một cây cầu đi bộ mà còn là tác phẩm nghệ thuật giữa thiên nhiên. Hai bàn tay khổng lồ được làm bằng thép và sợi thủy tinh, mang đến sự hài hòa giữa kiến trúc hiện đại và thiên nhiên hùng vĩ.</p>
+        <img src="images/images1730994_b2.jpg" alt="Kiến trúc Cầu Vàng">
+    </div>
+
+    <div class="content">
+        <h2>Trải nghiệm tại Cầu Vàng</h2>
+        <p>Du khách có thể tận hưởng cảnh quan tuyệt đẹp từ độ cao 1.400m so với mực nước biển. Đây là nơi lý tưởng để chụp ảnh, tận hưởng không khí trong lành và ngắm nhìn quang cảnh núi rừng thơ mộng.</p>
+    </div>
+</main>
+
+<footer>
+    <p>Xem tour đi Bà Nà Hill và Đà Nẵng. <a href="https://www.getyourguide.com/-l92387/?cmp=bing&ad_id=78202963710359&adgroup_id=1251244854683240&bid_match_type=bb&campaign_id=434111534&device=c&feed_item_id=&keyword=www.getyourguide.com&loc_interest_ms=166&loc_physical_ms=153419&match_type=b&msclkid=9243bebc56fb1a2a0ff6d9f188f50fc1&network=o&partner_id=CD951&target_id=dat-2330002578451845&utm_adgroup=ct%3Ddsa%7Cfn%3Df1&utm_campaign=ct%3Ddsa%7Cln%3D29%3Aen%7Ctc%3Dall&utm_keyword=www.getyourguide.com&utm_medium=paid_search&utm_query=b%C3%A0%20n%C3%A0%20hill&utm_source=bing">Tìm hiểu thêm tại đây</a>.</p>
+    <p><a href="button.html">Đi đến Trang Giới Thiệu Thành Viên</a>.</p>
+    <a href="bieumau.html">Đi đến Đặt vé</a>
+</footer>
+
+</body>
+</html>
