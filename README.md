@@ -72,7 +72,7 @@
     <div class="content">
         <h2>Giới thiệu về Cầu Vàng</h2>
         <p>Cầu Vàng (Golden Bridge) nằm tại khu du lịch Bà Nà Hills, Đà Nẵng, là một công trình kiến trúc nổi bật thu hút du khách trong nước và quốc tế. Với thiết kế độc đáo, cây cầu dài 150m này được nâng đỡ bởi hai bàn tay khổng lồ, tạo nên cảm giác như đang bước đi trên mây.</p>
-        <img src="cau-vang-da-nang-02.png" alt="Cầu Vàng Đà Nẵng">
+        <img src="https://nhuminhplazahotel.com/wp-content/uploads/2023/05/kinh-nghiem-du-lich-cau-vang-da-nang6.jpeg" alt="Cầu Vàng Đà Nẵng">
     </div>
 
     <div class="content">
@@ -89,8 +89,8 @@
 
 <footer>
     <p>Xem tour đi Bà Nà Hill và Đà Nẵng. <a href="https://www.getyourguide.com/-l92387/?cmp=bing&ad_id=78202963710359&adgroup_id=1251244854683240&bid_match_type=bb&campaign_id=434111534&device=c&feed_item_id=&keyword=www.getyourguide.com&loc_interest_ms=166&loc_physical_ms=153419&match_type=b&msclkid=9243bebc56fb1a2a0ff6d9f188f50fc1&network=o&partner_id=CD951&target_id=dat-2330002578451845&utm_adgroup=ct%3Ddsa%7Cfn%3Df1&utm_campaign=ct%3Ddsa%7Cln%3D29%3Aen%7Ctc%3Dall&utm_keyword=www.getyourguide.com&utm_medium=paid_search&utm_query=b%C3%A0%20n%C3%A0%20hill&utm_source=bing">Tìm hiểu thêm tại đây</a>.</p>
-    <p><a href="button.html">Đi đến Trang Giới Thiệu Thành Viên</a>.</p>
-    <a href="bieumau.html">Đi đến Đặt vé</a>
+    <p><a href="https://trachungphu.github.io/Nhom3.12TT.github.io/">Đi đến Trang Giới Thiệu Thành Viên</a>.</p>
+    <a href="https://trachungphu.github.io/registration.github.io/">Đi đến Đặt vé</a>
 </footer>
 
 </body>
